@@ -1,24 +1,29 @@
-# Hi, I'm Ruodong 👋
+# Ruodong Liu
 
-**Senior Full Stack Engineer** focused on **AI/LLM systems** and production **React / Node.js / Python** stacks.
+**Senior Full Stack Engineer · AI / LLM Systems** · Los Angeles, CA
 
-Most recently built AI-driven automation systems at Apple. Previously at Sage Goddess, Shipsaving, and others.
+I build production web apps and LLM-powered automation with React, Node.js and Python. Most recently, AI-driven automation systems at Apple; before that Sage Goddess and Shipsaving.
 
-- 🔭 Production LLM applications: RAG and agents
-- 🌱 Open to new full-stack / AI roles — feel free to reach out
-- 💬 Ask me about React, Node.js, Python, LLM integration, system design
-- 📫 ruodongsde@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/s-liu-917471227/)
+📫 [ruodongsde@gmail.com](mailto:ruodongsde@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/s-liu-917471227/) · 🌱 Open to full-stack / AI engineering roles
 
 ---
 
-### Pinned Projects
+## Featured projects
 
-- **[ai-pitch-backend](https://github.com/lrddrl/ai-pitch-backend)** — FastAPI service that scores startup pitch decks with GPT-4.1-nano across 10 VC criteria
-- **[ai-pitch-frontend](https://github.com/lrddrl/ai-pitch-frontend)** — Next.js 15 + React 19 app for AI pitch scoring, history, and PDF report export
-- **[alta-backend](https://github.com/lrddrl/alta-backend)** — NestJS + Prisma/PostgreSQL invoice API with JWT auth and due-date aggregation
-- **[frontend-app](https://github.com/lrddrl/frontend-app)** — React 18 + Redux Toolkit + Vite SPA for invoice tracking with Zod-validated forms
-- **[pharmacy](https://github.com/lrddrl/pharmacy)** — Python utility for enriching pharmacy CSVs with phone numbers from the Google Places API
-- **[ai-pdf-parser](https://github.com/lrddrl/ai-pdf-parser)** — Next.js AI chatbot that extracts structured invoice data from PDFs using OpenAI/Fireworks models, with Drizzle ORM auth, Radix UI, and CodeMirror
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**ai-pitch-backend**](https://github.com/lrddrl/ai-pitch-backend) | Scores startup pitch decks across 10 VC criteria: PDF parsing, GPT-4.1-nano analysis, database-backed history | Python · FastAPI · OpenAI · PostgreSQL |
+| [**ai-pitch-frontend**](https://github.com/lrddrl/ai-pitch-frontend) | Upload a deck, get colour-coded scores, history and an exportable PDF report | Next.js 15 · React 19 · TypeScript |
+| [**fox-one-assessment**](https://github.com/lrddrl/fox-one-assessment) | Live sports scoreboard (MLB / NFL / college football) with AI game recaps — [live demo](https://fox-one-scoreboard.vercel.app) | React 19 · Vite · TypeScript · Vercel |
+| [**alta-backend**](https://github.com/lrddrl/alta-backend) | Invoice-tracking API with JWT auth, pagination and due-date aggregation; Docker, Jest unit and e2e tests | NestJS · Prisma · PostgreSQL |
+| [**minimax-1008-guard**](https://github.com/lrddrl/minimax-1008-guard) | OpenClaw plugin that detects MiniMax's misleading "1008" error and auto-compacts the session; published to npm as `@lrddrl/minimax-1008-guard` | TypeScript · MIT |
+| [**ai-pdf-parser**](https://github.com/lrddrl/ai-pdf-parser) | Chatbot that extracts structured invoice data from PDFs | Next.js · Drizzle · OpenAI / Fireworks |
 
-<sub>📍 Los Angeles, CA</sub>
+## Tech
+
+- **Frontend:** React, Next.js, Redux Toolkit, TypeScript, Vite
+- **Backend:** Node.js, NestJS, Python, FastAPI, Prisma, PostgreSQL
+- **AI / LLM:** OpenAI APIs, RAG, agents, PDF parsing pipelines
+- **Delivery:** Docker, Vercel, Jest
+
+Ask me about React, Node.js, Python, LLM integration and system design.
