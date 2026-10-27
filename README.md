@@ -19,6 +19,10 @@ I build production web apps and LLM-powered automation with React, Node.js and P
 | [**minimax-1008-guard**](https://github.com/lrddrl/minimax-1008-guard) | OpenClaw plugin that detects MiniMax's misleading "1008" error and auto-compacts the session; published to npm as `@lrddrl/minimax-1008-guard` | TypeScript · MIT |
 | [**ai-pdf-parser**](https://github.com/lrddrl/ai-pdf-parser) | Chatbot that extracts structured invoice data from PDFs | Next.js · Drizzle · OpenAI / Fireworks |
 
+## Open-source contributions
+
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** (390k+ stars): [#148532](https://github.com/openclaw/openclaw/pull/148532) - fix(browser): fail text-mode snapshots blocked by a pending dialog. A browser snapshot blocked by a dialog used to exit 0 and silently overwrite the saved file with an empty one; it now exits non-zero with the dialog details and how to dismiss it, and keeps the existing file. Verified against a real Gateway and Chromium; **merged**.
+
 ## Tech
 
 - **Frontend:** React, Next.js, Redux Toolkit, TypeScript, Vite
